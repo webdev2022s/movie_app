@@ -1,8 +1,8 @@
 {
+  "homepage": "http://http://webdev2022s.github.io/movie_app",
   "name": "07-usepopcorn-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://http://webdev2022s.github.io/movie_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

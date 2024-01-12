@@ -15,7 +15,7 @@ export default function useMovies(query, callbackFunction) {
       setIsLoading(true);
       setIsError("");
       const res = await fetch(
-        `http://www.omdbapi.com/?apikey=1b6cc179&s='${query}'`,
+        `https://www.omdbapi.com/?apikey=1b6cc179&s='${query}'`,
         { signal: controller.signal }
       );
 
