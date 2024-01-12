@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "//webdev2022s.github.io/movie_app/static/css/main.b7436ad4.css",
-    "main.js": "//webdev2022s.github.io/movie_app/static/js/main.b5b7cf00.js",
+    "main.js": "//webdev2022s.github.io/movie_app/static/js/main.1b2db8c1.js",
     "index.html": "//webdev2022s.github.io/movie_app/index.html",
     "main.b7436ad4.css.map": "//webdev2022s.github.io/movie_app/static/css/main.b7436ad4.css.map",
-    "main.b5b7cf00.js.map": "//webdev2022s.github.io/movie_app/static/js/main.b5b7cf00.js.map"
+    "main.1b2db8c1.js.map": "//webdev2022s.github.io/movie_app/static/js/main.1b2db8c1.js.map"
   },
   "entrypoints": [
     "static/css/main.b7436ad4.css",
-    "static/js/main.b5b7cf00.js"
+    "static/js/main.1b2db8c1.js"
   ]
 }
